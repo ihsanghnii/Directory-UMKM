@@ -15,11 +15,11 @@
 
 !. Admin 
 
-*   email : admin@gmail.com
-    password : admin@gmail.com
+    *   email : admin@gmail.com
+        password : admin@gmail.com
 
-*   email : admin1@gmail.com
-    password : admin1@gmail.com
+    *   email : admin1@gmail.com
+        password : admin1@gmail.com
 
 2. User
 
